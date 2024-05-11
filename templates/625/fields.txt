@@ -1,0 +1,10 @@
+Word
+Type
+Picture
+Picture2
+SentencePartial
+SentenceFull
+AudioWord
+AudioSentence
+Translation
+Comments
