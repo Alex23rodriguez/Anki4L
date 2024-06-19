@@ -1,0 +1,13 @@
+Index
+Word
+WordCardForm
+word_audio
+Definitions
+Irregular Form 1
+Irregular Form 2
+Irregular Form 3
+Sentence
+sentence_audio
+Translation
+Image
+Tags

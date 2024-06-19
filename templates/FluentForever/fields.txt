@@ -1,0 +1,6 @@
+Word
+Picture
+Gender, Personal Connection, Extra Info (Back side)
+Recording
+Test Spelling? (y = yes, blank = no)
+IPA
